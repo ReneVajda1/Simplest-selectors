@@ -1,0 +1,28 @@
+
+
+
+#b325 { border:solid;
+    border-color: rgb(6, 218, 59);
+    margin-right: 700px;
+    font-weight: bold;
+}
+
+
+.asteroidb326 { border:solid;
+    border-color: rgb(5, 226, 16);
+    margin-right: 700px;
+    font-weight: bold;
+}
+
+.asteroidbig { 
+    background-color: rgb(236, 252, 17);
+    margin-right: 700px;
+    color: blue;
+}
+
+.asteroidb329big { 
+    background-color: rgb(236, 252, 17);
+    margin-right: 700px;
+    color: blue;
+    font-weight: bold;
+}
